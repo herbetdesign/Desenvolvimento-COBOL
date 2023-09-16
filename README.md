@@ -5,7 +5,7 @@ Repositório de projetos COBOL demonstrando minhas habilidades em programação 
 
 Bem-vindo ao meu repositório de projetos COBOL! Aqui, você encontrará uma demonstração das minhas habilidades em programação COBOL, com projetos que abrangem diversas áreas.
 
-## Calculadora COBOL
+## 1 - Projeto Calculadora COBOL (calculadora.COB)
 
 ### Descrição do Projeto
 
