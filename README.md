@@ -17,17 +17,13 @@ Neste repositório, você encontrará minha implementação de uma calculadora s
 - Interface de linha de comando fácil de usar.
 - Manipulação de números inteiros.
 
-## 2 - Projeto Conversor de Moedas (calculadora.COB)
+## 2 - Calculadora de Empréstimo (calculadoraEmprestimos.cob)
 
 ### Descrição do Projeto
 
-O Conversor de Moedas em COBOL é um programa simples que permite aos usuários converter valores entre diferentes moedas com base em taxas de câmbio pré-definidas. O programa segue uma abordagem interativa, onde o usuário fornece informações sobre a moeda de origem, a moeda de destino, a taxa de câmbio e o valor a ser convertido. O programa, então, realiza a conversão e exibe o valor convertido na tela.
+Crie um programa que permita aos usuários inserir o valor do empréstimo, a taxa de juros e o número de parcelas e, em seguida, calcule a prestação mensal.
 
-### Funcionalidades
 
-- Entrada de Moedas: O usuário insere as moedas de origem e destino.
-- Conversão: O programa calcula o valor convertido com base na taxa de câmbio.
-- Exibição do Resultado: O valor convertido é exibido na tela.
 
 
 
