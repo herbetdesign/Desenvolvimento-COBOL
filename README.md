@@ -9,19 +9,13 @@ Bem-vindo ao meu repositório de projetos COBOL! Aqui, você estará armazenado 
 
 ### Descrição do Projeto
 
-Neste repositório, você encontrará minha implementação de uma calculadora simples em COBOL. Esta calculadora é uma demonstração inicial das minhas habilidades de programação COBOL e serve como um ponto de partida para projetos mais complexos que estão por vir.
-
-### Funcionalidades
-
-- Adição, subtração, multiplicação e divisão de números.
-- Interface de linha de comando fácil de usar.
-- Manipulação de números inteiros.
+Esta calculadora é uma demonstração inicial das minhas habilidades de programação COBOL e serve como um ponto de partida para projetos mais complexos que estão por vir.
 
 ## 2 - Calculadora de Empréstimo (calculadoraEmprestimos.cob)
 
 ### Descrição do Projeto
 
-Crie um programa que permita aos usuários inserir o valor do empréstimo, a taxa de juros e o número de parcelas e, em seguida, calcule a prestação mensal.
+Programa que permita aos usuários inserir o valor do empréstimo, a taxa de juros e o número de parcelas e, em seguida, calcule a prestação mensal.
 
 
 
